@@ -1,0 +1,4 @@
+com/example/SynchronyDemo/integration/UserIntegrationTest.class
+com/example/SynchronyDemo/SynchronyDemoApplicationTests.class
+com/example/SynchronyDemo/service/UserServiceTest.class
+com/example/SynchronyDemo/service/UserServiceCacheTest.class
